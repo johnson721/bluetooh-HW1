@@ -1,0 +1,13 @@
+com/example/B10830229_HomeWork1/ItemActivity.java
+ com.example.B10830229_HomeWork1.ItemActivity
+ com.example.B10830229_HomeWork1.ItemActivity$OnItemClick
+ com.example.B10830229_HomeWork1.ItemActivity$ViewHolder
+com/example/B10830229_HomeWork1/DetailActivity.java
+ com.example.B10830229_HomeWork1.DetailActivity
+com/example/B10830229_HomeWork1/BuildConfig.java
+ com.example.B10830229_HomeWork1.BuildConfig
+com/example/B10830229_HomeWork1/MainActivity.java
+ com.example.B10830229_HomeWork1.MainActivity
+ com.example.B10830229_HomeWork1.MainActivity$1
+com/example/B10830229_HomeWork1/ScanActivity.java
+ com.example.B10830229_HomeWork1.ScanActivity
