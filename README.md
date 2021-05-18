@@ -6,3 +6,4 @@ ENTER---進入列表
 START---開始掃描
 STOP----停止搜尋
 DETAIL--裝置細節
+https://github.com/johnson721/bluetooh-HW1
